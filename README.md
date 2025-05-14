@@ -24,9 +24,6 @@ This project presents an in-depth analysis of FabHotel's booking data from April
 - City  
 - Stay Duration  
 - Booking Frequency (Derived)  
-
-*Note: Data is anonymized and cleaned for analysis.*
-
 ---
 
 ## 🛠️ Tools & Technologies Used
