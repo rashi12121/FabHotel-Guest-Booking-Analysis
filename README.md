@@ -28,8 +28,7 @@ This project presents an in-depth analysis of FabHotel's booking data from April
 
 ## 🛠️ Tools & Technologies Used
 
-- Microsoft Excel: Data cleaning and preprocessing
-- Power BI: Dashboard creation and visualization
+- Microsoft Excel: Data cleaning preprocessing, and visualization
 - Pivot Tables, Measures, and Conditional Formatting
 - Descriptive Statistics & Segmentation Logic
 
